@@ -23,3 +23,5 @@ public class Runner {
 }       //version 6
         System.out.println("Yeni güne Merhaba");
 
+        //version 7
+        system.out.println("Hi")
